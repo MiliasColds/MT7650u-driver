@@ -1,0 +1,2 @@
+/home/ian/Archer_T1U_V1_150909/Archer_T1U_V1_150909/Driver/NETIF/os/linux/mt7650u_sta_net.ko
+/home/ian/Archer_T1U_V1_150909/Archer_T1U_V1_150909/Driver/NETIF/os/linux/../../os/linux/sta_ioctl.o /home/ian/Archer_T1U_V1_150909/Archer_T1U_V1_150909/Driver/NETIF/os/linux/../../os/linux/rt_main_dev.o /home/ian/Archer_T1U_V1_150909/Archer_T1U_V1_150909/Driver/NETIF/os/linux/../../common/rtusb_dev_id.o /home/ian/Archer_T1U_V1_150909/Archer_T1U_V1_150909/Driver/NETIF/os/linux/../../os/linux/usb_main_dev.o
